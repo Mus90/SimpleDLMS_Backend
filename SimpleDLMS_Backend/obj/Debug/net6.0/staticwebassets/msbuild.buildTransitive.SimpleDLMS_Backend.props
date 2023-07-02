@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SimpleDLMS_Backend.props" />
+</Project>

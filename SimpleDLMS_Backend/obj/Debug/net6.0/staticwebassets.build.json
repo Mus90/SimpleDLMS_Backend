@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VQEWrmMc1l1xGU5gDEF5elB+r+ANm2ONV0t3HSyORmo=",
+  "Source": "SimpleDLMS_Backend",
+  "BasePath": "_content/SimpleDLMS_Backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

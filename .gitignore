@@ -1,0 +1,33 @@
+# Compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Build output
+target/
+build/
+dist/
+
+# Logs and databases
+logs/
+*.log
+*.sqlite
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Generated files
+*.bak
+*.swp
+*.tmp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
